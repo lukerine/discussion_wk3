@@ -1,0 +1,20 @@
+background{ color: "#FCECD8";
+}
+
+*{font-family: Helvetica, sans-serif, times;
+  Color: #6E3511;
+}
+
+h1 {color: #597928;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+h2, h3{color: #597928;
+  font-size: x-large;
+}
+
+body {
+      line-height: 1.6;
+      margin: 0;
+    }
